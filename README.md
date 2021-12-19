@@ -96,7 +96,7 @@ Also we need to add two other classes :
 <br>
 
 ----------
-## Go Cell
+## Go to Cell
 
 Now we will add the function for the goCell action. For that, we need to create a **Dialog** for the user to select a cell using the designer :
 <br>
@@ -275,7 +275,7 @@ the output looks like this :
 
 <br>
 
-> Now this is the declaration and implementation of our main class **spreadsheet**
+> Now we will retourn to the declaration and implementation of our main class **spreadsheet**
 <br>
 
 -------------
