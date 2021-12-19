@@ -27,7 +27,7 @@
 The window can include a menu bar, tool bar, status bar, title bar, etc. The most common form of window is also the main window of the GUI program</p>
 <br>
 
-![](readme/mainwindow.PNG)
+![](readme/Capture.PNG)
 
 
 <br>
